@@ -1,3 +1,4 @@
+#Hirst Art Project
 import turtle
 import random
 import colorgram as cg
